@@ -1,0 +1,1 @@
+python btccharts-arbitrage.py --printmkdf --currency EUR --reldiff 4 --loop 900
