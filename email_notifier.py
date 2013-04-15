@@ -10,8 +10,8 @@ class Email_Notifier:
     self.debuglevel = 0
 
     self.servername = 'My Mining 1'
-    self.from_addr = "working4coins <working4coins@gmail.com>"
-    self.to_addr = "working4coins <working4coins@gmail.com>"
+    self.from_addr = "you <youradress@domain.com>"
+    self.to_addr = "you <youradress@domain.com>"
     
     self.subj = "Arbitrage opportunities found"
 
